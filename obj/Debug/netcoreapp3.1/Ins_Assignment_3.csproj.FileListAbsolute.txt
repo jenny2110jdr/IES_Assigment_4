@@ -1,0 +1,15 @@
+C:\Users\Jenisha\source\repos\Ins_Assignment_3\bin\Debug\netcoreapp3.1\Ins_Assignment_3.exe
+C:\Users\Jenisha\source\repos\Ins_Assignment_3\bin\Debug\netcoreapp3.1\Ins_Assignment_3.deps.json
+C:\Users\Jenisha\source\repos\Ins_Assignment_3\bin\Debug\netcoreapp3.1\Ins_Assignment_3.runtimeconfig.json
+C:\Users\Jenisha\source\repos\Ins_Assignment_3\bin\Debug\netcoreapp3.1\Ins_Assignment_3.runtimeconfig.dev.json
+C:\Users\Jenisha\source\repos\Ins_Assignment_3\bin\Debug\netcoreapp3.1\Ins_Assignment_3.dll
+C:\Users\Jenisha\source\repos\Ins_Assignment_3\bin\Debug\netcoreapp3.1\Ins_Assignment_3.pdb
+C:\Users\Jenisha\source\repos\Ins_Assignment_3\obj\Debug\netcoreapp3.1\Ins_Assignment_3.csprojAssemblyReference.cache
+C:\Users\Jenisha\source\repos\Ins_Assignment_3\obj\Debug\netcoreapp3.1\Ins_Assignment_3.AssemblyInfoInputs.cache
+C:\Users\Jenisha\source\repos\Ins_Assignment_3\obj\Debug\netcoreapp3.1\Ins_Assignment_3.AssemblyInfo.cs
+C:\Users\Jenisha\source\repos\Ins_Assignment_3\obj\Debug\netcoreapp3.1\Ins_Assignment_3.dll
+C:\Users\Jenisha\source\repos\Ins_Assignment_3\obj\Debug\netcoreapp3.1\Ins_Assignment_3.pdb
+C:\Users\Jenisha\source\repos\Ins_Assignment_3\obj\Debug\netcoreapp3.1\Ins_Assignment_3.genruntimeconfig.cache
+C:\Users\Jenisha\source\repos\Ins_Assignment_3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jenisha\source\repos\Ins_Assignment_3\obj\Debug\netcoreapp3.1\Ins_Assignment_3.csproj.CoreCompileInputs.cache
+C:\Users\Jenisha\source\repos\Ins_Assignment_3\obj\Debug\netcoreapp3.1\Ins_Assignment_3.csproj.CopyComplete
