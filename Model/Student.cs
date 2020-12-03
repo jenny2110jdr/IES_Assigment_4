@@ -12,7 +12,12 @@ namespace Ins_Assignment_3.Model
         public String ImageData { get; set; }
         public bool MyRecord { get; set; }
 
-        public string _DateOfBirth;
+        public override string ToString()
+        {
+            return $"{StudentId} - {FirstName} {LastName}";
+        }
+   
+    public string _DateOfBirth;
         public string DateOfBirth
         {
             get { return _DateOfBirth; }
@@ -28,11 +33,6 @@ namespace Ins_Assignment_3.Model
         }
 
        public DateTime DateOfBirthDT { get; set; }
-
-        public override string ToString()
-        {
-            return $"{StudentId} {FirstName} {LastName}";
-        }
 
         public string ToCSV()
         {
